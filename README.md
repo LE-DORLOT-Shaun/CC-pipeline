@@ -17,3 +17,9 @@ Le premier flux kinesis créé sur l'interface.
 aws kinesis delete-stream --stream-name kinesis-analytics-demo-stream
 
 
+Question 5.1 :
+On modifie la variable suivante dans le fichier stock.py.
+STREAM_NAME = "shaun-le_dorlot-stock-input-stream"
+
+Question 5.2 :
+Il manque des droits
