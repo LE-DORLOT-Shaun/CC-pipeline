@@ -5,3 +5,7 @@ terraform plan donne :
 
 ensuite dans l'écran d'accueil AWS
 ![image](https://user-images.githubusercontent.com/61048121/205948964-147741fc-afcc-4510-a27d-2f4ec2c28007.png)
+
+Question 2 :
+Après avoir ajouté mes initiales SHLE
+![image](https://user-images.githubusercontent.com/61048121/205958699-45c70c2f-c28d-4558-9af6-48c34c6e2609.png)
