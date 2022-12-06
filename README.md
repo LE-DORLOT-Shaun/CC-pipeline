@@ -9,3 +9,8 @@ ensuite dans l'écran d'accueil AWS
 Question 2 :
 Après avoir ajouté mes initiales SHLE
 ![image](https://user-images.githubusercontent.com/61048121/205958699-45c70c2f-c28d-4558-9af6-48c34c6e2609.png)
+
+Question 3 :
+Le premier flux kinesis créé sur l'interface.
+![image](https://user-images.githubusercontent.com/61048121/205963888-709f3b99-dc66-414b-b790-ce4884f9e846.png)
+
