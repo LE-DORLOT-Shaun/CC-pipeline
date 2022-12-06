@@ -1,0 +1,5 @@
+resource "aws_key_pair" "shaun-le_dorlot-key" {
+  key_name   = "shaun-le_dorlot-key"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDqq+X9w8LeEgsUdDTthZAKFceiUn3y8siuYuVEmACZLpb6yPOhH4ifK8VY4HDimwXgXva+o4C8X9jxjSXqVERHl4CqyJwxJHaFFn2Fe9GbV4uz3dytcY50WatrFNv1J5ovrYJOi1KG8bjaXJf+kNRIMNSyf2hlytsQFYGx1pPjy6G7DTw+n5XBHIPoiy6knrpuvaqj1PrsTpZu4ixCGGnnurRoyk+DSPzdVyTW5datIX7Ed/CzITQlZ65BhLkQMhGOA2uaUy4etEOa2lVHRoQ0y+jhxRxq2syKA5E0yIRkh+GoUXyggkZ8D/wx231N8pMNztITzdDNBcR0Qbz7HqPr shaun@LAPTOP-QU48P707"
+}
+
