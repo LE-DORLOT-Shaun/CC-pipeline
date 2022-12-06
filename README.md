@@ -14,3 +14,6 @@ Question 3 :
 Le premier flux kinesis créé sur l'interface.
 ![image](https://user-images.githubusercontent.com/61048121/205963888-709f3b99-dc66-414b-b790-ce4884f9e846.png)
 
+aws kinesis delete-stream --stream-name kinesis-analytics-demo-stream
+
+
